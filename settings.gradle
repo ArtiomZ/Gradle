@@ -1,0 +1,4 @@
+rootProject.name = 'grad'
+include 'db'
+include 'service'
+include 'api'
